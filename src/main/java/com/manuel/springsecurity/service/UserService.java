@@ -1,4 +1,4 @@
-package com.manuel.springsecurity.service;
+/*package com.manuel.springsecurity.service;
 
 import com.manuel.springsecurity.UserHelper;
 import com.manuel.springsecurity.UserPojo;
@@ -28,3 +28,5 @@ public class UserService implements UserDetailsService {
 
     }
 }
+
+ */

@@ -1,4 +1,6 @@
+/*
 package com.manuel.springsecurity.repository;
+
 
 import com.manuel.springsecurity.UserPojo;
 import org.springframework.jdbc.core.JdbcTemplate;
@@ -41,4 +43,4 @@ public class UserDAO {
 
 
 }
-
+*/

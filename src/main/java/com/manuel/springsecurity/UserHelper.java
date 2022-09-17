@@ -1,4 +1,4 @@
-package com.manuel.springsecurity;
+/*package com.manuel.springsecurity;
 
 import org.springframework.security.core.userdetails.User;
 
@@ -12,6 +12,6 @@ public class UserHelper extends User {
 
 
     }
-
+*/
 
 

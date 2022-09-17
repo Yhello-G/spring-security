@@ -1,4 +1,4 @@
-package com.manuel.springsecurity;
+/*package com.manuel.springsecurity;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -42,3 +42,5 @@ public class UserPojo {
     }
 }
 
+
+ */
